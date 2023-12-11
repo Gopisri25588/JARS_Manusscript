@@ -1,0 +1,33 @@
+Confusion Matrix: D:\Raja\Results\flood_zone\20190725_S1_VH_VV_ann_layer_10000_iter.tif  
+  
+Overall Accuracy = (153601/171831)  89.3907%  
+Kappa Coefficient = 0.7790  
+  
+                  Ground Truth (Pixels)  
+    Class    EVF:Layer: luEVF:Layer: lu        Total  
+ Unclassified            0            0            0  
+Land_area [Ma        94381        12745       107126  
+Water [Blue]          5485        59220        64705  
+        Total        99866        71965       171831  
+  
+  
+                 Ground Truth (Percent)  
+    Class    EVF:Layer: luEVF:Layer: lu        Total  
+ Unclassified         0.00         0.00         0.00  
+Land_area [Ma        94.51        17.71        62.34  
+Water [Blue]          5.49        82.29        37.66  
+        Total       100.00       100.00       100.00  
+  
+  
+  
+        Class   Commission     Omission          Commission            Omission  
+                 (Percent)    (Percent)            (Pixels)            (Pixels)  
+Land_area [Ma        11.90         5.49        12745/107126          5485/99866  
+Water [Blue]          8.48        17.71          5485/64705         12745/71965  
+  
+  
+        Class   Prod. Acc.    User Acc.          Prod. Acc.           User Acc.  
+                 (Percent)    (Percent)            (Pixels)            (Pixels)  
+Land_area [Ma        94.51        88.10         94381/99866        94381/107126  
+Water [Blue]         82.29        91.52         59220/71965         59220/64705  
+

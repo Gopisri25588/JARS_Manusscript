@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20210716</CreaDate><CreaTime>16271000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractValuesToPoints" Date="20210716" Time="162710">ExtractValuesToPoints Image_differencing_points 20190725_S1_VH.tif D:\Raja\20190725_S1_VH_image_diff_points.shp NONE VALUE_ONLY</Process></lineage></DataProperties></Esri></metadata>
